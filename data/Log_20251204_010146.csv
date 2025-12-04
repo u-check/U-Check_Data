@@ -1,0 +1,14 @@
+﻿sep=;
+# Datei;"Log_20251204_010146.csv"
+# Kunde;""
+# Objekt;""
+# Messstelle;""
+# Verglasungsart;""
+# Notizen;""
+# Startzeit;"2025-12-04 01:01:50"
+# Messintervall [s];1
+
+Zeit [s];T_si [°C];T_se [°C];q_si [W/m²];q_se [W/m²];q_mittel [W/m²];Lux [lx];U [W/m²K];q_true [W/m²]
+0;18,30;18,62;-0,1;-0,2;-0,1; 0;0,41;
+2;18,32;18,64;-0,1;-0,2;-0,2; 0;0,49;
+3;18,32;18,63;-0,1;-0,2;-0,2; 0;0,52;
