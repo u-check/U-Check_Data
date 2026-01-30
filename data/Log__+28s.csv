@@ -1,0 +1,13 @@
+﻿sep=;
+# Datei;"Log__+28s.csv"
+# Kunde;""
+# Objekt;""
+# Messstelle;""
+# Verglasungsart;""
+# Notizen;""
+# Startzeit;"T+30s"
+# Messintervall [s];10
+
+Zeit [s];T_si [°C];T_se [°C];q_si [W/m²];q_se [W/m²];q_mittel [W/m²];Lux [lx];U [W/m²K];q_true [W/m²]
+0;18,40;18,45;1,7;1,9;1,8;51;5,13;0,0
+10;18,47;18,52;1,9;2,2;2,1;51;5,18;0,0
