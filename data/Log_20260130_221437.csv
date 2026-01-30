@@ -1,0 +1,15 @@
+﻿sep=;
+# Datei;"Log_20260130_221437.csv"
+# Kunde;"Test1"
+# Objekt;""
+# Messstelle;"F1"
+# Verglasungsart;"3-fach"
+# Notizen;""
+# Startzeit;"2026-01-30 22:14:39"
+# Messintervall [s];5
+
+Zeit [s];T_si [°C];T_se [°C];q_si [W/m²];q_se [W/m²];q_mittel [W/m²];Lux [lx];U [W/m²K];q_true [W/m²]
+1;22,53;23,03;-0,6;-0,3;-0,4; 7;0,75;0,0
+6;22,54;23,06;-0,7;-0,3;-0,5; 6;0,83;0,0
+11;22,54;23,06;-0,7;-0,3;-0,5; 6;0,82;0,0
+16;22,55;23,07;-0,8;-0,2;-0,5; 6;0,84;0,0
