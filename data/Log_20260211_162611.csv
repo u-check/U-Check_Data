@@ -1,0 +1,13 @@
+﻿sep=;
+# Datei;"Log_20260211_162611.csv"
+# Kunde;"Herr Müller"
+# Objekt;"Schellingstraße"
+# Messstelle;"F1"
+# Verglasungsart;"2-fach"
+# Notizen;""
+# Startzeit;"2026-02-11 16:26:13"
+# Messintervall [s];5
+
+Zeit [s];T_si [°C];T_se [°C];q_si [W/m²];q_se [W/m²];q_mittel [W/m²];Lux [lx];U [W/m²K];q_true [W/m²]
+3;18,47;18,61;5,0;5,3;5,1; 9;5,06;0,0
+7;18,47;18,59;4,9;5,3;5,1; 9;5,18;0,0
