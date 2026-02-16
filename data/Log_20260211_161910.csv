@@ -1,0 +1,11 @@
+﻿sep=;
+# Datei;"Log_20260211_161910.csv"
+# Kunde;"test"
+# Objekt;""
+# Messstelle;"F1"
+# Verglasungsart;"2-fach"
+# Notizen;""
+# Startzeit;"2026-02-11 16:19:12"
+# Messintervall [s];5
+
+Zeit [s];T_si [°C];T_se [°C];q_si [W/m²];q_se [W/m²];q_mittel [W/m²];Lux [lx];U [W/m²K];q_true [W/m²]
